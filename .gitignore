@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do PyInstaller
+build/
+dist/
+*.spec
+
+# Arquivos de IDE (Opcional, mas recomendado)
+.vscode/
+.idea/
