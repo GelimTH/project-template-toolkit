@@ -57,8 +57,6 @@ Se você não quiser usar o executável, pode rodar o projeto manualmente:
 
 Um executável `.exe` pré-compilado pode ser encontrado na seção [Releases](https://github.com/SEU-USUARIO/SEU-REPO/releases) deste repositório.
 
-*(Nota: Você precisará subir o seu `.exe` manualmente para a seção "Releases" do seu GitHub para que este link funcione)*
-
 ---
 
 ## 🌟 Créditos e Agradecimentos
