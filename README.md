@@ -55,7 +55,7 @@ Se você não quiser usar o executável, pode rodar o projeto manualmente:
 
 ## 📦 Executável (Windows)
 
-Um executável `.exe` pré-compilado pode ser encontrado na seção [Releases](https://github.com/SEU-USUARIO/SEU-REPO/releases) deste repositório.
+Um executável `.exe` pré-compilado pode ser encontrado na seção [Releases](https://github.com/GelimTH/project-template-toolkit/releases) deste repositório.
 
 ---
 
